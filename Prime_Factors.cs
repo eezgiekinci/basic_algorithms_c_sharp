@@ -1,7 +1,3 @@
-﻿using ConsoleApp6;
-
-
-
 using System;
 public class Mathematics
 {
